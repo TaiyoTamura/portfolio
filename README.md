@@ -2,7 +2,7 @@
     Keio University Graduate School of Media and Governance M1
     
 ## Programming Languages
-'Python' 'MATLAB' 'R' 'C'
+`Python` `MATLAB` `R` `C`
     
 ## Education
 ### *2020/4 - 2024/3*
