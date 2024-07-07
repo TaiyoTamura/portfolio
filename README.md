@@ -1,8 +1,5 @@
-
 # Taiyo Tamura (田村太陽)
     Keio University Graduate School of Media and Governance M1
-    
-    ***
     
 ## Programming Languages
 'Python' 'MATLAB' 'R' 'C'
@@ -22,6 +19,6 @@
 > - Taiyo Tamura, Hideshi Ooka, Kosuke Fujishima
 > - Nougeikagaku Meeting 2024, 2024/3/26, Oral presentation (general)
 
-> -[Understanding Enzymatic Activity and Reversibility Using Microkinetic Models](https://sites.google.com/view/mollife3/program?authuser=0) </a></strong>
+> - [Understanding Enzymatic Activity and Reversibility Using Microkinetic Models](https://sites.google.com/view/mollife3/program?authuser=0) </a></strong>
 > - Taiyo Tamura
 > - 第3回分子生命反応創発討論会, 2024/6/17, Short Oral presentation & Poster presentation
