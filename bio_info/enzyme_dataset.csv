@@ -1,0 +1,26 @@
+﻿EC_number,Organism_name,Substrate,pH,Temperature(C),EnzymeType,Identifier,KM,KCAT_KM,TURNOVER,KCAT,KCAT_TON
+1.1.1.1,Equus caballus P00327 Uniprot,4-amino-1-butanol,9,25,enzyme recombinant,[],17.8,21.35,380,380.03,1.000078947
+1.1.1.1,Geobacillus stearothermophilus P42328 SwissProt,acetaldehyde,8,60,wild-type,[],0.364,1900,681,691.6,1.015565345
+1.1.1.1,Geobacillus stearothermophilus P42328 Uniprot,acetaldehyde,8,60,wild-type,[],0.364,1900,681,691.6,1.015565345
+1.1.1.1,Geobacillus stearothermophilus P42328 SwissProt,12-oxolauric acid methyl ester,8,60,wild-type,[],0.066,4700,308,310.2,1.007142857
+1.1.1.1,Geobacillus stearothermophilus P42328 Uniprot,12-oxolauric acid methyl ester,8,60,wild-type,[],0.066,4700,308,310.2,1.007142857
+1.1.1.1,Geobacillus stearothermophilus P42328 SwissProt,Butyraldehyde,8,60,wild-type,[],0.108,8600,931,928.8,0.99763695
+1.1.1.1,Geobacillus stearothermophilus P42328 Uniprot,Butyraldehyde,8,60,wild-type,[],0.108,8600,931,928.8,0.99763695
+1.1.1.1,Geobacillus stearothermophilus P42328 SwissProt,ethanol,8,60,wild-type,[],0.91,340,305,309.4,1.01442623
+1.1.1.1,Geobacillus stearothermophilus P42328 Uniprot,ethanol,8,60,wild-type,[],0.91,340,305,309.4,1.01442623
+1.1.1.1,Geobacillus stearothermophilus P42328 SwissProt,n-butanol,8,60,wild-type,[],0.611,320,195,195.52,1.002666667
+1.1.1.1,Geobacillus stearothermophilus P42328 Uniprot,n-butanol,8,60,wild-type,[],0.611,320,195,195.52,1.002666667
+1.1.1.1,Rhodococcus ruber,acetophenone,6,37,expressed from polymorpha Hansenula enzyme recombinant,[],0.2,1055,211,211,1
+1.1.1.1,Rhodococcus ruber,acetophenone,6,37,expressed adeninivorans from Arxula enzyme recombinant,[],0.4,720,288,288,1
+1.1.1.1,Rhodococcus ruber,Valeraldehyde,6,37,expressed from polymorpha Hansenula enzyme recombinant,[],2,264,528,528,1
+1.1.1.1,Rhodococcus ruber,capronaldehyde,6,37,expressed from polymorpha Hansenula enzyme recombinant,[],0.25,1640,410,410,1
+1.1.1.1,Rhodococcus ruber,Valeraldehyde,6,37,expressed adeninivorans from Arxula enzyme recombinant,[],0.28,1543,432,432.04,1.000092593
+1.1.1.1,Rhodococcus ruber,4-chloroacetophenone,6,37,expressed from polymorpha Hansenula enzyme recombinant,[],0.14,1036,145,145.04,1.000275862
+1.1.1.1,Rhodococcus ruber,capronaldehyde,6,37,expressed adeninivorans from Arxula enzyme recombinant,[],0.14,2264,317,316.96,0.999873817
+1.1.1.1,Rhodococcus ruber,phenylacetaldehyde,6,37,expressed from cerevisiae Saccharomyces enzyme recombinant,[],0.19,1063,202,201.97,0.999851485
+1.1.1.1,Rhodococcus ruber,capronaldehyde,6,37,expressed from cerevisiae Saccharomyces enzyme recombinant,[],0.22,2618,576,575.96,0.999930556
+1.1.1.1,Rhodococcus ruber,phenylacetaldehyde,6,37,expressed from polymorpha Hansenula enzyme recombinant,[],0.33,800,264,264,1
+1.1.1.1,Rhodococcus ruber,acetophenone,6,37,expressed from cerevisiae Saccharomyces enzyme recombinant,[],0.66,392,259,258.72,0.998918919
+1.1.1.1,Rhodococcus ruber,phenylacetaldehyde,6,37,expressed adeninivorans from Arxula enzyme recombinant,[],0.91,333,303,303.03,1.00009901
+1.1.1.1,Rhodococcus ruber,4-chloroacetophenone,6,37,expressed from cerevisiae Saccharomyces enzyme recombinant,[],0.53,434,230,230.02,1.000086957
+1.1.1.1,Rhodococcus ruber,4-chloroacetophenone,6,37,expressed adeninivorans from Arxula enzyme recombinant,[],1.11,389,432,431.79,0.999513889
